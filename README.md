@@ -18,8 +18,8 @@
 **Technologies Used:**
 
 - Frontend: HTML, CSS, JavaScript (React or similar framework)
-- Backend: Node.js (Express) or Python (Flask/Django)
-- Database: MySQL or MongoDB
+- Backend: Java
+- Database: MySQL
 - API Integrations: Google Maps API, Weather APIs, etc.
 
 **Project Objective:**  
